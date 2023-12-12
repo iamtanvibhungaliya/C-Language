@@ -7,7 +7,7 @@ main()
 	printf("Enter Character : ");
 	scanf("%s",a);
 
-	 for(i=0; i<20; i++)
+	 for(i=0; i<30; i++)
 	 {
 	 	if(a[i]>=65 && a[i]<=90)
 	 	{

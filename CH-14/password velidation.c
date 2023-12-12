@@ -33,10 +33,10 @@ main()
 		let++;
 	}
 	if (let>=8 && cap>0  && sml>0 && dgt>0 && sp==0 && sym>0){
-		printf("Valide!!");
+		printf("storng pass ");
 	}
 	else{
-		printf("invalide!!");
+		printf("not strong");
 	}
 	
 }
